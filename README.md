@@ -3,9 +3,6 @@
 
 This project aims to predict customer churn using machine learning techniques on the "Telco Customer Churn" dataset. By analyzing customer behavior, demographics, and transaction history, we build predictive models to identify at-risk customers and enable proactive retention strategies.
 
-## 🧠 Project Team
-- Selahattin Koray Yıldız
-- Emrullah Ayaz
 
 ## 🧩 Problem Statement
 Customer churn refers to when customers stop doing business with a company. Retaining existing customers is more cost-effective than acquiring new ones, making churn prediction vital for business success.
